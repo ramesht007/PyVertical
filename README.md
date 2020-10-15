@@ -10,10 +10,10 @@ A project developing privacy-preserving, vertically-distributed learning.
 
 - :link: Links vertically partitioned data
          without exposing membership
-         using Private Set Intersection (PSI)
+         using Private Set Intersection (PSI).
 - :lock: Trains a model on vertically partitioned data
         using SplitNNs,
-        so only data holders can access data
+        so only data holders can access data.
 
 Vertically-partitioned data is data
 in which
